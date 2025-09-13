@@ -1,0 +1,2 @@
+# requirements.txt
+# No external libraries are strictly required for a basic Tkinter/SQLite app.
