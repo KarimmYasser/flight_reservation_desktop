@@ -27,7 +27,7 @@ This is a basic desktop application for managing flight reservations, built with
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/your-username/flight-reservation-app.git](https://github.com/your-username/flight-reservation-app.git)
+    git clone [https://github.com/KarimmYasser/flight_reservation_desktop](https://github.com/KarimmYasser/flight_reservation_desktop)
     cd flight-reservation-app
     ```
 
